@@ -1,0 +1,67 @@
+je	barcode14.br	barcode14_contig_10	NC_047881.1	Shigella phage SSP1, complete genome	92.478	82	110220	15408	1154	5	5	15410	59715	75119	0.0	22027
+je	barcode14.br	barcode14_contig_11	NC_047960.1	Enterobacteria phage vB_EcoS_IME347, complete genome	99.236	100	50012	29567	204	17	20459	50012	50048	20491	0.0	53328
+je	barcode14.br	barcode14_contig_2	NC_001421.2	Enterobacteria phage PRD1, complete genome	97.837	100	1567	1572	22	10	1	1567	6	1570	0.0	2704
+je	barcode14.br	barcode14_contig_4	NC_007451.1	Enterobacteria phage PR4, complete genome	96.253	100	1190	774	13	10	1	769	10267	9505	0.0	1254
+je	barcode14.br	barcode14_contig_5	NC_001421.2	Enterobacteria phage PRD1, complete genome	97.410	99	26198	13126	315	13	5923	19043	14921	1816	0.0	22332
+je	barcode14.br	barcode14_contig_6	NC_049815.1	Escherichia phage tonn, complete genome	98.367	87	2305	1286	21	0	714	1999	11070	9785	0.0	2259
+je	barcode14.br	barcode14_contig_7	NC_052657.1	Escherichia phage muut, complete genome	96.506	89	6614	3635	76	38	50	3654	59943	63556	0.0	5962
+je	barcode14.br	barcode14_contig_8	NC_047848.1	Shigella phage Sf12, complete genome	87.699	50	46647	5203	606	29	268	5459	20329	25508	0.0	6032
+je	barcode14.br	barcode14_contig_9	NC_049828.1	Escherichia phage haarsle, complete genome	97.110	86	50301	12907	366	7	8239	21142	46514	33612	0.0	21762
+je	barcode15.br	barcode15_contig_1	NC_047848.1	Shigella phage Sf12, complete genome	87.779	50	46959	5196	609	21	17799	22984	20329	25508	0.0	6054
+je	barcode15.br	barcode15_contig_2	NC_048852.1	Salmonella phage L6jm, complete genome	92.485	100	3167	3167	232	6	1	3167	87386	90546	0.0	4525
+je	barcode15.br	barcode15_contig_3	NC_047835.1	Escherichia phage OSYSP, complete genome	84.141	90	3853	2579	354	47	12	2564	87035	89584	0.0	2446
+je	barcode15.br	barcode15_contig_4	NC_048731.1	Escherichia phage fp01, complete genome	88.812	98	3667	3602	388	15	1	3596	76391	72799	0.0	4405
+je	barcode16.br	barcode16_contig_1	NC_007451.1	Enterobacteria phage PR4, complete genome	91.365	96	29738	5767	456	33	23854	29605	5907	168	0.0	7853
+je	barcode16.br	barcode16_contig_2	NC_017969.1	Escherichia phage vB_EcoS_AKFV33, complete genome	92.337	81	64649	15817	1185	20	35861	51667	63994	79793	0.0	22469
+je	barcode16.br	barcode16_contig_3	NC_049828.1	Escherichia phage haarsle, complete genome	97.110	86	50302	12907	366	7	11147	24050	46514	33612	0.0	21762
+je	barcode16.br	barcode16_contig_4	NC_047885.1	Bacteriophage T5-like chee24, complete genome	89.109	80	47568	7841	762	60	7072	14874	23748	15962	0.0	9664
+js	barcode11.br	barcode11_contig_1	NC_017969.1	Escherichia phage vB_EcoS_AKFV33, complete genome	92.337	82	110220	15817	1185	20	70534	86340	63994	79793	0.0	22469
+js	barcode11.br	barcode11_contig_2	NC_049922.1	Stx converting phage vB_EcoS_ST2-8624, complete genome	99.869	25	3035	764	0	1	1974	2737	23181	23943	0.0	1404
+js	barcode11.br	barcode11_contig_3	NC_049925.1	Stx converting phage vB_EcoS_P27, complete genome	98.089	15	1237	157	2	1	19	174	23115	22959	5.88e-71	272
+js	barcode11.br	barcode11_contig_4	NC_052663.1	Escherichia phage VEcB, complete genome	98.170	99	12059	12025	140	54	54	12049	73515	61542	0.0	20914
+js	barcode12.br	barcode12_contig_1	NC_047835.1	Escherichia phage OSYSP, complete genome	90.652	98	6699	6568	576	33	73	6631	28625	22087	0.0	8693
+js	barcode12.br	barcode12_contig_2	NC_047835.1	Escherichia phage OSYSP, complete genome	84.840	79	18895	4182	524	79	9165	13267	85434	89584	0.0	4109
+js	barcode12.br	barcode12_contig_3	NC_048627.1	Escherichia phage SP15 DNA, complete genome	92.313	97	2910	2836	206	11	2	2833	63886	66713	0.0	4019
+js	barcode12.br	barcode12_contig_4	NC_048855.1	Phage NBEco002, complete genome	90.974	64	8865	3501	303	12	302	3793	76039	79535	0.0	4702
+js	barcode12.br	barcode12_contig_5	NC_049828.1	Escherichia phage haarsle, complete genome	97.103	84	45759	12908	366	8	7247	20151	46514	33612	0.0	21758
+js	barcode12.br	barcode12_contig_6	NC_047960.1	Enterobacteria phage vB_EcoS_IME347, complete genome	99.180	100	50008	44249	312	21	1	44206	5808	50048	0.0	79654
+js	barcode13.br	barcode13_contig_1	NC_047822.1	Escherichia phage phiLLS, complete genome	92.167	99	5042	4979	372	15	1	4975	18396	13432	0.0	7018
+js	barcode13.br	barcode13_contig_2	NC_047881.1	Shigella phage SSP1, complete genome	92.057	98	8910	8762	677	19	72	8832	69504	60761	0.0	12307
+js	barcode13.br	barcode13_contig_3	NC_048731.1	Escherichia phage fp01, complete genome	92.063	99	4539	4473	351	4	1	4473	67296	62828	0.0	6290
+js	barcode13.br	barcode13_contig_4	NC_048855.1	Phage NBEco002, complete genome	89.249	78	11497	3674	323	41	3436	7096	24523	28137	0.0	4530
+js	barcode13.br	barcode13_contig_5	NC_049815.1	Escherichia phage tonn, complete genome	98.264	92	48962	16127	276	4	20305	36428	12504	28629	0.0	28227
+js	barcode13.br	barcode13_contig_6	NC_048205.1	Escherichia virus vB_Eco_mar004NP2 genome assembly, chromosome: 1	88.179	99	8767	8781	961	67	1	8760	81018	72294	0.0	10394
+js	barcode13.br	barcode13_contig_7	NC_047835.1	Escherichia phage OSYSP, complete genome	84.307	83	12696	4193	537	90	956	5069	89584	85434	0.0	3986
+js	barcode13.br	barcode13_contig_8	NC_048857.1	Phage NBSal005, complete genome	93.709	95	20541	7550	467	7	1	7547	55421	62965	0.0	11304
+js	barcode13.br	barcode13_contig_9	NC_049828.1	Escherichia phage haarsle, complete genome	97.011	86	50301	12912	370	16	1100	14004	46514	33612	0.0	21691
+kk	barcode05.br	barcode05_contig_1	NC_047848.1	Shigella phage Sf12, complete genome	87.779	50	47388	5196	609	21	28017	33202	20329	25508	0.0	6054
+kk	barcode05.br	barcode05_contig_10	NC_049828.1	Escherichia phage haarsle, complete genome	97.110	86	50302	12907	366	7	29682	42585	33612	46514	0.0	21762
+kk	barcode05.br	barcode05_contig_2	NC_049815.1	Escherichia phage tonn, complete genome	97.913	86	57144	16149	303	30	29887	46024	12504	28629	0.0	27924
+kk	barcode05.br	barcode05_contig_4	NC_001421.2	Enterobacteria phage PRD1, complete genome	97.425	99	15059	14950	346	25	59	14998	6	14926	0.0	25438
+kk	barcode05.br	barcode05_contig_5	NC_049922.1	Stx converting phage vB_EcoS_ST2-8624, complete genome	100.000	34	2212	763	0	0	1052	1814	23943	23181	0.0	1410
+kk	barcode05.br	barcode05_contig_6	NC_016761.1	Salmonella phage SPN1S, complete genome	80.000	1	16630	175	29	6	8778	8949	28215	28044	2.39e-25	124
+kk	barcode05.br	barcode05_contig_8	NC_048794.1	Salmonella phage VSe12, complete genome	88.815	84	110220	17300	1900	30	85215	102499	102496	85217	0.0	21195
+kk	barcode05.br	barcode05_contig_9	NC_047960.1	Enterobacteria phage vB_EcoS_IME347, complete genome	99.186	100	50010	40550	278	22	9505	50010	50048	9507	0.0	73006
+kk	barcode06.br	barcode06_contig_1	NC_052653.1	Escherichia phage vB_vPM_PD06, complete genome	97.536	95	197806	50652	1134	61	145087	195669	97739	148345	0.0	86518
+kk	barcode06.br	barcode06_contig_2	NC_023693.1	Enterobacteria phage phi92, complete genome	99.262	99	4518	4473	32	1	1	4472	54976	59448	0.0	8076
+kk	barcode06.br	barcode06_contig_3	NC_048204.1	Escherichia virus vB_Eco_mar001J1 strain vB_Eco_mar002J2 genome assembly, chromosome: 1	94.540	99	11278	11172	541	54	73	11226	26284	15164	0.0	17187
+kk	barcode06.br	barcode06_contig_4	NC_049815.1	Escherichia phage tonn, complete genome	97.804	89	33338	16166	301	50	12745	28896	12504	28629	0.0	27837
+kk	barcode06.br	barcode06_contig_5	NC_001421.2	Enterobacteria phage PRD1, complete genome	97.607	99	14662	14628	328	10	1	14626	14663	56	0.0	25054
+kk	barcode06.br	barcode06_contig_6	NC_047848.1	Shigella phage Sf12, complete genome	87.779	50	46960	5196	609	21	25112	30297	25508	20329	0.0	6054
+kk	barcode06.br	barcode06_contig_7	NC_049828.1	Escherichia phage haarsle, complete genome	97.110	86	50301	12907	366	7	15265	28168	46514	33612	0.0	21762
+kk	barcode06.br	barcode06_contig_8	NC_017969.1	Escherichia phage vB_EcoS_AKFV33, complete genome	92.337	82	110220	15817	1185	20	19796	35602	63994	79793	0.0	22469
+kk	barcode06.br	barcode06_contig_9	NC_047960.1	Enterobacteria phage vB_EcoS_IME347, complete genome	99.157	100	50012	28599	207	11	21447	50012	1	28598	0.0	51446
+mp	barcode08.br	barcode08_contig_1	NC_049925.1	Stx converting phage vB_EcoS_P27, complete genome	100.000	10	2538	230	0	0	2237	2466	22959	23188	8.86e-117	425
+mp	barcode08.br	barcode08_contig_2	NC_047960.1	Enterobacteria phage vB_EcoS_IME347, complete genome	99.075	98	21409	21071	162	10	16	21054	3446	24515	0.0	37800
+mp	barcode08.br	barcode08_contig_3	NC_001421.2	Enterobacteria phage PRD1, complete genome	97.489	99	14984	14895	343	18	44	14931	14872	2	0.0	25405
+mp	barcode08.br	barcode08_contig_4	NC_047938.1	Escherichia phage SECphi27 genome assembly, complete genome: monopartite	97.562	92	47539	16939	352	48	77	17003	35531	18642	0.0	28936
+mp	barcode08.br	barcode08_contig_6	NC_049828.1	Escherichia phage haarsle, complete genome	96.361	86	50300	10581	378	6	16405	26983	5614	16189	0.0	17400
+mp	barcode08.br	barcode08_contig_7	NC_048794.1	Salmonella phage VSe12, complete genome	88.815	84	110220	17300	1900	30	77427	94711	102496	85217	0.0	21195
+mp	barcode08.br	barcode08_contig_8	NC_047848.1	Shigella phage Sf12, complete genome	87.779	50	46961	5196	609	21	31563	36748	25508	20329	0.0	6054
+mp	barcode09.br	barcode09_contig_1	NC_001421.2	Enterobacteria phage PRD1, complete genome	97.042	98	15255	14944	370	56	321	15255	32	14912	0.0	25082
+mp	barcode09.br	barcode09_contig_2	NC_052657.1	Escherichia phage muut, complete genome	98.749	99	14071	13991	146	27	6	13994	112754	98791	0.0	24840
+mp	barcode09.br	barcode09_contig_3	NC_052655.1	Escherichia phage alia, complete genome	95.922	95	22823	10006	351	42	8433	18398	75151	85139	0.0	16164
+mp	barcode09.br	barcode09_contig_4	NC_017969.1	Escherichia phage vB_EcoS_AKFV33, complete genome	92.337	82	110220	15817	1185	20	11904	27710	63994	79793	0.0	22469
+mp	barcode09.br	barcode09_contig_5	NC_047848.1	Shigella phage Sf12, complete genome	87.644	50	47016	5196	614	23	32756	37939	20329	25508	0.0	6013
+mp	barcode09.br	barcode09_contig_6	NC_047960.1	Enterobacteria phage vB_EcoS_IME347, complete genome	99.210	100	50011	43316	302	13	1	43278	43314	1	0.0	78059
+mp	barcode09.br	barcode09_contig_7	NC_049828.1	Escherichia phage haarsle, complete genome	97.110	86	50302	12907	366	7	33325	46228	33612	46514	0.0	21762
