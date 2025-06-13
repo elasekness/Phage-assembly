@@ -30,3 +30,7 @@
 ## Get tophit for each query to read blast results more easily.
 
 	get_tophit.py -i barcode05.br
+
+## Map phage reads back to assembly.
+
+	for filn in `cat bcodes.txt`; do minimap2 -x map-ont -a -o $filn"-mapped.sam" $filn".fasta" $filn"-phage.fastq"; done
